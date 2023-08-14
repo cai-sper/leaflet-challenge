@@ -1,1 +1,2 @@
 # Leaflet Challenge
+In this challenge, I analyzed data regarding earthquakes that occurred over the last 7 days. I used Leaflet in JavaScript to create an interactive map showing all of the earthquakes' locations. The marker sizes were based on the magnitude of the earthquake the the colours of the markers were darker if the earthquake occurred at a lower depth. I then created a legend to identify the colours and their meanings. I modified the CSS file in order to enable this, in addition to coding the legend in JavaScript.
