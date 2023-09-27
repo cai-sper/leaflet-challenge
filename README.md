@@ -27,7 +27,7 @@ Additionally, the colour of the markers indicates the depth of each earthquake. 
 
 ### Pop-up Information
 
-Hover over any marker to view detailed information about the earthquake, including:
+Click on any marker to view detailed information about the earthquake, including:
 
 - Location
 - Date and time
